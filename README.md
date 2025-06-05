@@ -1,4 +1,4 @@
-# Resume Evaluator
+# AI Resume Evaluator
 
 A modern web application that helps job seekers evaluate their resumes against job descriptions using AI-powered analysis. The application provides detailed feedback on resume content, format, and ATS (Applicant Tracking System) compatibility.
 
@@ -130,6 +130,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - your.email@example.com
+K.H.Harsh (harsh06pb@gmail.com)
 
-Project Link: [https://github.com/yourusername/resume-evaluator](https://github.com/yourusername/resume-evaluator) 
+Project Link: [https://github.com/yourusername/resume-evaluator](https://github.com/Harsh-KH-6/resume-evaluator) 
