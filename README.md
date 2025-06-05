@@ -132,4 +132,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 K.H.Harsh (harsh06pb@gmail.com)
 
-Project Link: [https://github.com/yourusername/resume-evaluator](https://github.com/Harsh-KH-6/resume-evaluator) 
