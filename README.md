@@ -33,7 +33,7 @@ A modern web application that helps job seekers evaluate their resumes against j
 - Python 3.8 or higher
 - Node.js 14 or higher
 - npm or yarn
-- Git
+- Git.
 
 ## Setup Instructions
 
